@@ -6,7 +6,7 @@ namespace DogAndCatMultythreaded
 {
     class Program
     {
-        const int amount = 10;
+        const int amount = 10;  // bark 10 times.. or meow
         static object monitor = new object();
         static bool go;
         static EventWaitHandle evenReady;
@@ -21,7 +21,7 @@ namespace DogAndCatMultythreaded
         /// https://stackoverflow.com/questions/1164038/monitor-vs-mutex-in-c-sharp
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DogCat();  // new style
             Thread.Sleep(100);

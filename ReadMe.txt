@@ -1,4 +1,4 @@
-Two of my programmer buddies (Koteiko & redneck) asked me to write demo of flip-flop threads algorithm.
+Two of my programmer buddies  asked me to write demo of flip-flop threads algorithm.
 So here it is. 
 Dog in one thread will woof, then cat in other thread will meow, then switch. 
 
@@ -14,3 +14,5 @@ https://stackoverflow.com/questions/4978850/monitor-vs-lock
 Monitor vs Mutex in c# 
 https://stackoverflow.com/questions/1164038/monitor-vs-mutex-in-c-sharp
 
+thank you
+Sam Klok (aka Serge-Sergiy Klokov)
