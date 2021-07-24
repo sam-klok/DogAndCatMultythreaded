@@ -15,4 +15,4 @@ Monitor vs Mutex in c#
 https://stackoverflow.com/questions/1164038/monitor-vs-mutex-in-c-sharp
 
 thank you
-Sam Klok (aka Serge-Sergiy Klokov)
+Sam Klok
